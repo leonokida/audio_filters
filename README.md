@@ -11,10 +11,10 @@ To compile the program, execute the following command inside the project directo
 ```bash
 $ make
 ```
-After that, several executable files will be compiled.
+After that, several executable files will be ready to use.
 
 ## Executable files
-Each executable file is different filter, with the exception of <code>wavinfo</code>.
+Each executable file is a different filter, with the exception of <code>wavinfo</code>.
 
 ### WavInfo
 Shows info about the input WAV file.
