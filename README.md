@@ -1,5 +1,5 @@
 # About
-This is a C program that consists in a series of filters for WAV audio files.
+This is a C program that consists in a series of filters for WAV audio files.  
 It was developed as an assingment for the Programming II (CI1002) course of the Federal University of Paraná (UFPR).
 
 # Data Structure used
