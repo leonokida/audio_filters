@@ -72,7 +72,7 @@ This filter concatenates different audio files. They must have the **same number
 ```bash
 $ ./wavcat file1.wav file2.wav file3.wav ... -o output
 ```
-The file names **must** be indicated when executing this filter.
+The file names **must** be indicated when executing this filter.  
 <code>-o</code> indicates the output file. If it is not used, the program will use <code>stdout</code> as its output.
 
 ### WavMix
@@ -80,7 +80,7 @@ This filter mixes different different audio files. They must have the **same num
 ```bash
 $ ./wavmix file1.wav file2.wav file3.wav ... -o output
 ```
-The file names **must** be indicated when executing this filter.
+The file names **must** be indicated when executing this filter.  
 <code>-o</code> indicates the output file. If it is not used, the program will use <code>stdout</code> as its output.
 
 #Usage example
